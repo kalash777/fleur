@@ -37,5 +37,5 @@ void draw() {
   img.updatePixels();
   image(img2,0,00);
   img=img2;
-  delay(700);
+  delay(300);
 }
